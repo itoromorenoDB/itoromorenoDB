@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itoromorenoDB
-- 👀 I’m interested in learning new technologies to collaborate as a full stack developer and data analisys
+- 👀 I’m interested in learning new technologies to collaborate as a full stack developer and data analyst
 - 🌱 I’m currently learning some stuff on javascript.
 - 💞️ I’m looking to collaborate on open source projects and teaching the skills I've learned
 - 📫 You can send an email to: ivan.toromorenos@gmail.com
